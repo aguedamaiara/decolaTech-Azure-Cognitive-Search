@@ -1,0 +1,1 @@
+# decolaTech-Azure-Cognitive-Search
